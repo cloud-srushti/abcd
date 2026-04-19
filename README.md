@@ -243,4 +243,5 @@ This is it, hopefully this will help you get started with kubernetes, front end 
 
 
 #   a b c d  
+ #   f u l l  
  
